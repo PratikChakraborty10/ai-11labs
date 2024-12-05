@@ -1,0 +1,1 @@
+export const AI_MODEL_ID = process.env.NEXT_CONVERSATION_MODEL_ID
